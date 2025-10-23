@@ -52,7 +52,9 @@ We will enhance our model by incorporating a Character-level Convolutional Neura
 
 - Paper 4: Kim, Y., et al. (2016). Character-Aware Neural Language Models. This paper demonstrates the effectiveness of using character-level inputs to handle morphological richness and out-of-vocabulary words, the same principles that apply to obfuscated text.
 
-## 3.3. Incorporating External Context: Much of hate speech is context-dependent (e.g., "Lẩu Gà Bình Thuận" is only hateful in a video about LGBTQ+ individuals). The model must be given this context.
+## 3.3. Incorporating External Context:
+
+Much of hate speech is context-dependent (e.g., "Lẩu Gà Bình Thuận" is only hateful in a video about LGBTQ+ individuals). The model must be given this context.
 
 ### 1. Input Formulation:
 
