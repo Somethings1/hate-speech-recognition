@@ -1,0 +1,2 @@
+comment_id,video_id,username,comment_text,digg_count,create_time,clean_text,video_context,llm_hate_speech,llm_confidence,llm_justification,batch_size_tested
+7461965801051144968,6989137370817842459,Ngô Châu Anh,2025 còn xem ko🥰,70,1737374314,2025 còn xem ko,Đu trend phiên bản mới cấn thai 🥲,NOT_HATE_SPEECH,0.95,"Bình luận ""2025 còn xem ko"" là một câu hỏi trung lập về tính thời điểm của nội dung, không chứa bất kỳ lời lẽ xúc phạm, hạ thấp hay tấn công cá nhân hay nhóm xã hội nào.",1.0
